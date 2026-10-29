@@ -1,0 +1,6 @@
+# Données téléchargées et intermédiaires (environ 3 Go) : régénérées par les scripts 00 à 05
+data/
+
+__pycache__/
+.pytest_cache/
+*.aux.xml
