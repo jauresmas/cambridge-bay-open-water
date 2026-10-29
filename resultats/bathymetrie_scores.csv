@@ -1,0 +1,4 @@
+modele,n,biais,eam,reqm,r2,n_sous_limite,eam_sous_limite,reqm_sous_limite
+Stumpf bleu/vert,8812,0.001,2.317,3.031,0.704,7915,2.151,2.890
+Lyzenga 3 bandes,8812,0.014,2.782,3.720,0.553,7915,2.555,3.538
+Forêt aléatoire,8812,-0.002,2.070,2.790,0.749,7915,1.996,2.721

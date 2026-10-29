@@ -1,0 +1,16 @@
+n,biais,eam,reqm,classe,modele
+573,0.995,1.520,2.272,0-2 m,Stumpf bleu/vert
+1467,1.537,2.419,3.340,2-5 m,Stumpf bleu/vert
+2247,1.594,2.319,3.154,5-10 m,Stumpf bleu/vert
+2263,-0.159,1.810,2.439,10-15 m,Stumpf bleu/vert
+2262,-2.668,2.957,3.377,15-20 m,Stumpf bleu/vert
+573,3.075,3.075,3.534,0-2 m,Lyzenga 3 bandes
+1467,2.739,2.803,4.170,2-5 m,Lyzenga 3 bandes
+2247,1.585,2.183,3.425,5-10 m,Lyzenga 3 bandes
+2263,-0.636,2.070,2.955,10-15 m,Lyzenga 3 bandes
+2262,-3.437,4.000,4.366,15-20 m,Lyzenga 3 bandes
+573,1.246,1.273,1.900,0-2 m,Forêt aléatoire
+1467,1.314,1.814,2.828,2-5 m,Forêt aléatoire
+2247,0.957,2.187,2.923,5-10 m,Forêt aléatoire
+2263,-0.185,2.099,2.661,10-15 m,Forêt aléatoire
+2262,-1.941,2.292,2.940,15-20 m,Forêt aléatoire

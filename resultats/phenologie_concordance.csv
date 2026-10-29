@@ -1,0 +1,5 @@
+comparaison,n,ecart_median_j,ecart_absolu_median_j,ecart_q1_j,ecart_q3_j,part_moins_7j
+"prise, radar et optique",261,-2.00,9.00,-9.00,9.00,0.43
+débâcle optique après l'eau en surface (thermique),320,14.00,14.00,9.00,22.00,0.20
+débâcle optique après la fonte (radar),327,37.00,37.00,31.00,42.00,0.06
+prise consolidée après la première glace (thermique),62,13.00,14.50,4.50,23.75,0.26

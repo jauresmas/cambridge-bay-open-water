@@ -1,0 +1,8 @@
+capteur,evenement,cas,part_datee,demi_largeur_mediane_j,demi_largeur_p90_j
+Landsat TIRS,eau_surface,396,0.81,23.00,43.50
+Landsat TIRS,premiere_glace,396,0.16,15.00,15.50
+Sentinel-1,fonte,396,0.83,2.50,6.00
+Sentinel-1,prise,396,0.96,3.25,7.50
+Sentinel-2,debacle,396,1.00,2.50,8.00
+Sentinel-2,prise,396,0.66,6.50,15.50
+fusion,prise,384,,1.50,6.00

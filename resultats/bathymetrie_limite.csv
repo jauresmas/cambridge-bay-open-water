@@ -1,0 +1,2 @@
+limite_bleu_vert_m,limite_vert_rouge_m,profondeur_fiable_m,profondeur_optique_m,modele_carte,n_scenes,n_cellules_100m,carte_n,carte_reqm,carte_eam,carte_biais,carte_part_plus_20m
+18.000,37.500,12.000,15.000,Stumpf bleu/vert,10,8812,5081,3.547,2.111,0.085,0.011
